@@ -1,0 +1,25 @@
+<Window x:Class="WpfApp4.Window1"
+        ResizeMode="NoResize"
+        xmlns:oxy="http://oxyplot.codeplex.com"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="Distribution" Height="502.5" Width="546">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="109*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="423*"/>
+        </Grid.ColumnDefinitions>
+        <oxy:Plot Title="{Binding Title}" Margin="0,0,10.2,34.8" Grid.ColumnSpan="4">
+            <oxy:Plot.Series>
+                <oxy:LineSeries ItemsSource="{Binding Points}"/>
+            </oxy:Plot.Series>
+        </oxy:Plot>
+        <Button x:Name="save_button" Content="SAVE" HorizontalAlignment="Left" Height="25" Margin="119,438,0,0" VerticalAlignment="Top" Width="86" Click="save_button_Click" Grid.Column="3"/>
+    </Grid>
+</Window>
