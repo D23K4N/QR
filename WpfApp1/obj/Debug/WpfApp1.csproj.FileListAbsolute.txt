@@ -1,0 +1,17 @@
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\bin\Debug\OxyPlot.dll
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Ruth\source\repos\WpfApp4\WpfApp1\obj\Debug\WpfApp1.pdb

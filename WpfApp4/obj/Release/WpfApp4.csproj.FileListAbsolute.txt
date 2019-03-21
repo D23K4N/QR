@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\C#\WpfApp4\WpfApp4\obj\Release\WpfApp4.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\WpfApp4\WpfApp4\obj\Release\MainWindow.g.cs
+C:\Users\HP\Desktop\C#\WpfApp4\WpfApp4\obj\Release\Window2.g.cs
+C:\Users\HP\Desktop\C#\WpfApp4\WpfApp4\obj\Release\App.g.cs
+C:\Users\HP\Desktop\C#\WpfApp4\WpfApp4\obj\Release\WpfApp4_MarkupCompile.cache
+C:\Users\HP\Desktop\C#\WpfApp4\WpfApp4\obj\Release\WpfApp4_MarkupCompile.lref

@@ -1,0 +1,12 @@
+c:\Users\Ruth\source\repos\WpfApp4\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\Ruth\source\repos\WpfApp4\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\Ruth\source\repos\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\Users\Ruth\source\repos\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\Ruth\source\repos\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Ruth\source\repos\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C#\WpfApp4\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\HP\Desktop\C#\WpfApp4\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\HP\Desktop\C#\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\HP\Desktop\C#\WpfApp4\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
